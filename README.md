@@ -1,2 +1,2 @@
-# myRDCTrial
+# myRDCtrial
 myRDCTrial App
