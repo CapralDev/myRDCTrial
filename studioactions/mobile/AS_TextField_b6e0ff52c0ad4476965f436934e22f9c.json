@@ -1,0 +1,27 @@
+{
+    "AS_TextField_b6e0ff52c0ad4476965f436934e22f9c": {
+        "id": "AS_TextField_b6e0ff52c0ad4476965f436934e22f9c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "KUID": "ee4100a3b247456e8dca80f34d6bfd19",
+            "name": "frmMoveLoose",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a9f2e4edb5474ed08a40ca4c35e7f171",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.checkQuantity();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

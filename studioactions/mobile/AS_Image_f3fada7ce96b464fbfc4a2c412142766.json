@@ -1,0 +1,29 @@
+{
+    "AS_Image_f3fada7ce96b464fbfc4a2c412142766": {
+        "id": "AS_Image_f3fada7ce96b464fbfc4a2c412142766",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmScrapRsn",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ie090ee3968f45b69f3d66b9097b6a5d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchStart_c2690cf40857459ebc30bb0a0db4e107",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.launchBarcode();\n",
+            "callbackType": null
+        }]
+    }
+}

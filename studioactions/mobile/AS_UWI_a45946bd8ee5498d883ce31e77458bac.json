@@ -1,0 +1,24 @@
+{
+    "AS_UWI_a45946bd8ee5498d883ce31e77458bac": {
+        "id": "AS_UWI_a45946bd8ee5498d883ce31e77458bac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "response",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c00e9097cea546859dd5f05a7b494934"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ia19924422e340cc8e2b814c240f89f5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "glbSAPUNAME = this.view.login.getUsername();\nnavigateToForm (\"frmMenuMain\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

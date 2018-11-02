@@ -1,0 +1,24 @@
+{
+    "AS_Form_ac739c56d6fd4197ab8f7307ffcbeb1d": {
+        "id": "AS_Form_ac739c56d6fd4197ab8f7307ffcbeb1d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCaseEnquiry",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb136e56399b4ea0bca5e437757be30b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b19d9847e56b48fa96b27ccad4b832e5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelUname.text = glbSAPLONGNAME;\nthis.view.LabelLgnum.text = glbSAPLGNUM.toString();\nthis.view.LabelmyRDC.text = glbbuildname;\nthis.preShow(glb_WM_ENQ_STOCK);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

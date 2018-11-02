@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "33%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4181de4581040b0905e5c82ada42501",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "FlexTOListDet"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "FlexTOListController"
+        }
+    },
+    "enablescrolling": true,
+    "id": "FlexTOList",
+    "info": null,
+    "isTemplate": true,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h4ff14e6ba5c4b76af1bb890526476fd",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "SegTOList",
+    "pf": "SegTOList",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

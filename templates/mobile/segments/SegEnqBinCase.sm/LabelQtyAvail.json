@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd4f8c70646d4a058a6d3135ca2a472e",
+    "_text_": "Available:",
+    "_top_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "LabelQtyAvail",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i69e948b877449fd8bb21ab2b83a1022",
+    "name": "kony.ui.Label",
+    "parent": "FlexSegEnqBinCase",
+    "pf": "SegEnqBinCase",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,41 @@
+{
+    "AS_Label_b8d06f74914441239d3d30843548cec4": {
+        "id": "AS_Label_b8d06f74914441239d3d30843548cec4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPutAframe",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jd67b70d85d6469a8b0066c2dd8c8f19"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onTouchStart_ha155105022c4be6b119203e651cd57c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPutAframeInit",
+            "formKUID": "f0bcb7dd72d948acbbe4370387aed83c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }, {
+            "id": "ADD_SNIPPET__decfa837e31d4a1ebb930283edbd170a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//clear entry fields on back rather than in preshow\nthis.view.TextNewLocation.text = \"\";\nthis.view.TextConfirmedQty.text = \"\";\nthis.view.TextScrapQty.text = \"\"; \nthis.view.TextScrapReason.text = \"\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

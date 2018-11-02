@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9efb93fc3bd4ff88e53f3678f80534f",
+    "_text_": "from Location Number",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "LabelFromLocationNumber",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h24e6fc509944fe5a13eebc2e518ebaf",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainerLocation",
+    "pf": "frmMoveLooseSelect",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

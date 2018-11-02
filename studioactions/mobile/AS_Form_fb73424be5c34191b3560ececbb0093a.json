@@ -1,0 +1,23 @@
+{
+    "AS_Form_fb73424be5c34191b3560ececbb0093a": {
+        "id": "AS_Form_fb73424be5c34191b3560ececbb0093a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "aac4fdd99736425fb60604fe4c859d77",
+            "name": "frmMoveLooseSelect",
+            "platform": null,
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_b29df87741d04063b682a3947d8419b4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "printLog(\"calling preshow move loose select\");\nthis.view.LabelUname.text = glbSAPLONGNAME;\nthis.view.LabelLgnum.text = glbSAPLGNUM.toFixed(0);\nthis.preShow();",
+            "callbackType": null
+        }]
+    }
+}

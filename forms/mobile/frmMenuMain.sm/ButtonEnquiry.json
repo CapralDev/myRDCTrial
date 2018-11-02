@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6b9d4789d0044908b526939d933e264",
+    "_text_": "Stock Enquiry",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s04c0a1aa8dd4fbf93118a0c6e053375",
+    "id": "ButtonEnquiry",
+    "ide_onClick": "AS_Button_bf83a80e6f08426f9a5350f43d01fb72",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b392df6cd23e4cd5a0fdd030f52f2c08",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "PaddedButtonRound0c14a691caef74f",
+    "pf": "frmMenuMain",
+    "wType": "Button",
+    "zindex": 1
+}

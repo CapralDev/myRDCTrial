@@ -1,0 +1,72 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s67cf6f417b7446dbf299e0584ea75a4",
+    "_top_": {
+        "type": "string",
+        "value": "10.00%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "PaddedButtonRound",
+        "PaddedButtonRound0h239f7b2f8ce4f",
+        "PaddedButtonRound0gfd10e2f069a42",
+        "PaddedButtonRound0f5a11bba9bb14a"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "FlexScrollContainerBody",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ib3fb2548dcb4b6e818b153fa05565eb",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "frmMenuBtoB",
+    "pf": "frmMenuBtoB",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

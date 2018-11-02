@@ -1,0 +1,30 @@
+{
+    "AS_Image_f502a1b43f2d40c5b8dd02b8040ae23a": {
+        "id": "AS_Image_f502a1b43f2d40c5b8dd02b8040ae23a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmMoveCase",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c345bcc1491547a6adfeca4fe2fd93e0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f9a6bd21506649a48040f839de5dba18",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onTouchStart();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

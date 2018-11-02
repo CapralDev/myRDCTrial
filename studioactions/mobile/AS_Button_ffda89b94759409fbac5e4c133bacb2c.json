@@ -1,0 +1,24 @@
+{
+    "AS_Button_ffda89b94759409fbac5e4c133bacb2c": {
+        "id": "AS_Button_ffda89b94759409fbac5e4c133bacb2c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPickCaseItem",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h51a77e0e6d74936a559f82b08a019bc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c9a255137dc34dfa88a8e2c51aa2d828",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickConfirm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

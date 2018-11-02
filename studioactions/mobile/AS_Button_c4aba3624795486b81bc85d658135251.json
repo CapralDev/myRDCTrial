@@ -1,0 +1,29 @@
+{
+    "AS_Button_c4aba3624795486b81bc85d658135251": {
+        "id": "AS_Button_c4aba3624795486b81bc85d658135251",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuEnquiry",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h012d0dbe590493cbf95273fc1ea5338"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_bc2c149b83744effb2e0272a665adfbc",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmStockEnquiry",
+            "formKUID": "da7d54959bfe4a73a80d9934d75acd3f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

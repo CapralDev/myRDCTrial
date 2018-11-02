@@ -1,0 +1,24 @@
+{
+    "AS_Label_cec17fb4d2cf4ba9a9314323be0048b7": {
+        "id": "AS_Label_cec17fb4d2cf4ba9a9314323be0048b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPickCaseList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ecff5ea029ec47b4a3bf84e201d01666"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

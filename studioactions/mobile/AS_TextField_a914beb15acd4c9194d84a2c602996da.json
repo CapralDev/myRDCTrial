@@ -1,0 +1,26 @@
+{
+    "AS_TextField_a914beb15acd4c9194d84a2c602996da": {
+        "id": "AS_TextField_a914beb15acd4c9194d84a2c602996da",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmReprintLabelInit",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h72c9a99915144209351770f3b8b9833"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDone_df1bbc0e72c84661b7fd43fc2fa48fd0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onDone();",
+            "callbackType": null
+        }]
+    }
+}

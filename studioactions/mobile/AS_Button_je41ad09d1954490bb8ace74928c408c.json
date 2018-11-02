@@ -1,0 +1,23 @@
+{
+    "AS_Button_je41ad09d1954490bb8ace74928c408c": {
+        "id": "AS_Button_je41ad09d1954490bb8ace74928c408c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReprintLabel",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d5df419104ba4c5fbd22b9fe7c29008a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_i3ed67d954474c23ab487370c3c3a0e2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickPrint(this.view.LabelLENUM.text);",
+            "callbackType": null
+        }]
+    }
+}

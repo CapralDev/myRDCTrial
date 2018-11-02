@@ -1,0 +1,35 @@
+{
+    "AS_Label_f6e5bad8f6b54b89a5a12f1fb73a6a90": {
+        "id": "AS_Label_f6e5bad8f6b54b89a5a12f1fb73a6a90",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmReprintLabel",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d5df419104ba4c5fbd22b9fe7c29008a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onTouchStart_ab8ae7891a84402698b27a46bbdeb653",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmReprintLabelInit",
+            "formKUID": "h72c9a99915144209351770f3b8b9833",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

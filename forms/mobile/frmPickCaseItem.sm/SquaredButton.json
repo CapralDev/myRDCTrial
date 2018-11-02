@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se0bdfbfd408412a8a4f808cf2c2b59b",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "allboxes": [],
+    "android": {
+        "height": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "ButtonConfirm"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "SquaredButton",
+    "info": null,
+    "isvisible": true,
+    "kuid": "befe8825ff134cbd8cacd58b0d6285ae",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexContainer007",
+    "pf": "frmPickCaseItem",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Segment_af65feaeb6244926a425ba1b313f3dc7": {
+        "id": "AS_Segment_af65feaeb6244926a425ba1b313f3dc7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmBinEnquiry",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ja68b7c5d7364198bfbc405ada8ac814"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d06be7e9a8a94fb6b4aec60ebaf1f928",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onRowClick();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

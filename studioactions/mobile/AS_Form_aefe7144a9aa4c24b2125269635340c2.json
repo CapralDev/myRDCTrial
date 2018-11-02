@@ -1,0 +1,18 @@
+{
+    "AS_Form_aefe7144a9aa4c24b2125269635340c2": {
+        "id": "AS_Form_aefe7144a9aa4c24b2125269635340c2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBinEnquiry",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ja68b7c5d7364198bfbc405ada8ac814"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

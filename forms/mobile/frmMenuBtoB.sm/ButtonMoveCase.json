@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scd89c7df21e418faf04188b2c6e4bf5",
+    "_text_": "Move Case",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb1e78d8d758482887d1d6c47e2d104a",
+    "id": "ButtonMoveCase",
+    "ide_onClick": "AS_Button_fe9ca61e21d140d4aef7825f08b74607",
+    "info": null,
+    "isvisible": true,
+    "kuid": "defe779f4e884e50894d77cbfc5f507e",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "PaddedButtonRound",
+    "pf": "frmMenuBtoB",
+    "wType": "Button",
+    "zindex": 1
+}

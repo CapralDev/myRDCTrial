@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfadd65a598544588fe07be57e64738b",
+    "_text_": "Confirm",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s38fe282ca5c457b84a26097b7862b2c",
+    "id": "ButtonConfirmBin",
+    "ide_onClick": "AS_Button_a2d65f4846794c6ca8437f9be04cf4e0",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g34fd4b4f0a74a369e3051f397ee475a",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainerConfirm",
+    "pf": "frmMoveCase",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

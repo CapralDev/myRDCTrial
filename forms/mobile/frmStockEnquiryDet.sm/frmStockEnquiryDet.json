@@ -1,0 +1,143 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s9edbd97777e4e58918ba8461a053976",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "androidwearos": {
+        "needAppMenu": false
+    },
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainerHeader",
+        "FlexContainerFooter",
+        "FlexContainerBody"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "frmStockEnquiryDetController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "GalaxyS5",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "frmStockEnquiryDet",
+    "ide_preShow": "AS_Form_a483198be372497b82c4ef1060451c4e",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4
+        },
+        "titleBar": false
+    },
+    "iphone": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": false,
+                "kuid": "d3ed5c0806774e52b58d6ad29dd85719",
+                "leftBarButtonItems": [],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "info": {
+                            "title": "Edit"
+                        },
+                        "kuid": "b9fa23a415e4440eb008a1374f20e4e3",
+                        "style": 0,
+                        "tintColor": "4b88f100",
+                        "type": 1
+                    }
+                ],
+                "tintColor": "4b88f100",
+                "translucent": true
+            }
+        },
+        "titleBar": false
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "needAppMenu": false
+    },
+    "kuid": "b3f1ffc0fe1d4e6c9d558eed528bd2fb",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": false,
+    "paddinginpixel": false,
+    "platform": "android",
+    "prevDevice": "iPhoneX",
+    "prevPlatform": "iphone",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "shellCSS": "and_GalaxyS5",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spaandroidtablet": {
+        "needAppMenu": false
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spaipad": {
+        "needAppMenu": false
+    },
+    "spawindowstablet": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
+    "titleBarSkin": "s56cffadd35c4fe0b1b3824c4bde0f03",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "windows8": {
+        "needAppMenu": false
+    },
+    "winphone8": {
+        "needAppMenu": false
+    }
+}

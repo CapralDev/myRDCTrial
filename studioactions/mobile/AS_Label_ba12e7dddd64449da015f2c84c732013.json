@@ -1,0 +1,30 @@
+{
+    "AS_Label_ba12e7dddd64449da015f2c84c732013": {
+        "id": "AS_Label_ba12e7dddd64449da015f2c84c732013",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmStockEnquiryDet",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b3f1ffc0fe1d4e6c9d558eed528bd2fb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cd2e0560199a4283a53cc0470a44b261",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.return(glbStockEnqForm); ",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

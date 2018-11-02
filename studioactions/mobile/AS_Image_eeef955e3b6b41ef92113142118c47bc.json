@@ -1,0 +1,29 @@
+{
+    "AS_Image_eeef955e3b6b41ef92113142118c47bc": {
+        "id": "AS_Image_eeef955e3b6b41ef92113142118c47bc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "c3f20dd9548f4cd5a711503780a62d72",
+            "name": "frmMoveLooseInit",
+            "platform": null,
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchStart_c514ae0bab91454199d120f56394425b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.launchBarcode();\n",
+            "callbackType": null
+        }]
+    }
+}

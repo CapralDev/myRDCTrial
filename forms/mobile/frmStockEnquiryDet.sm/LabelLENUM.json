@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s275c9cc7cdc42c0a33f6dd22b3a2d84",
+    "_text_": "123456789012345",
+    "_top_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "LabelLENUM",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bc31de2f5c214fb1acd7715833b3d71a",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainerCase",
+    "pf": "frmStockEnquiryDet",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

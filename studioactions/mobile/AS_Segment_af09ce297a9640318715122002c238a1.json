@@ -1,0 +1,30 @@
+{
+    "AS_Segment_af09ce297a9640318715122002c238a1": {
+        "id": "AS_Segment_af09ce297a9640318715122002c238a1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmCaseEnquiry",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb136e56399b4ea0bca5e437757be30b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g5c2a4ca463d443ebb76d37f209ad6d0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onRowClick();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

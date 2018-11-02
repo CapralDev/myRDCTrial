@@ -1,0 +1,35 @@
+{
+    "AS_Label_c4a16ce90beb46328a829f4d3fa71172": {
+        "id": "AS_Label_c4a16ce90beb46328a829f4d3fa71172",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmCaseEnquiry",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb136e56399b4ea0bca5e437757be30b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f46b9cb6c6b54b62a4f75cd8e931bf64",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmStockEnquiry",
+            "formKUID": "da7d54959bfe4a73a80d9934d75acd3f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

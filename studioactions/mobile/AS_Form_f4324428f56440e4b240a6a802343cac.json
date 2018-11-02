@@ -1,0 +1,24 @@
+{
+    "AS_Form_f4324428f56440e4b240a6a802343cac": {
+        "id": "AS_Form_f4324428f56440e4b240a6a802343cac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuMain",
+            "type": "forms",
+            "platform": "",
+            "KUID": "da976575439d47b28d3f7f3f0e725888"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ga42eae44e1648d1bfe47415a96a30f0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"XXXXX\"+\"glbSAPUNAME=\"+glbSAPUNAME);\nthis.MMIntegrationCall();\nthis.preShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "82%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s88b19b614174729899bd5739215d996",
+    "_src_": "icons8_pull_down_64.png",
+    "_top_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmPutAframe",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "ImageRsnDropdown",
+    "ide_onTouchStart": "AS_Image_f609f32b76c34655bb3173bfe487ef3d",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ec8b1f96d0934f409173588e1ae6bacf",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainerConfirmQty",
+    "pf": "frmPutAframe",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

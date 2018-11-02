@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s88b19b614174729899bd5739215d996",
+    "_src_": "none.png",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmStockEnquiryDet",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "ImageBitmap",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jb68734250d142539321a7c2fa32d0fe",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainerDrw",
+    "pf": "frmStockEnquiryDet",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

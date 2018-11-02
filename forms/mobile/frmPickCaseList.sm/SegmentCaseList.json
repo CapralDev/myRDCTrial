@@ -1,0 +1,394 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "LabelBISMT": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "bismt"
+            },
+            "LabelFERTH": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ferth"
+            },
+            "LabelFromLocation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pick From Location:"
+            },
+            "LabelFromLocationNum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "A01-01-01"
+            },
+            "LabelGEWEI": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "gewei"
+            },
+            "LabelKg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total Kg:"
+            },
+            "LabelKgNum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.000"
+            },
+            "LabelLGNUM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "lgnum"
+            },
+            "LabelMAKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "maktx"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "matnr"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "meins"
+            },
+            "LabelNLPLA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "nltyp"
+            },
+            "LabelNLTYP": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "nltyp"
+            },
+            "LabelRightArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ">"
+            },
+            "LabelTO": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ticket:"
+            },
+            "LabelTONum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789012"
+            },
+            "LabelTOPos": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "LabelVLENR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "vlenr"
+            },
+            "LabelVLTYP": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "vltyp"
+            },
+            "LabelVSOLA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "vsola"
+            },
+            "LabelWRKST": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "wrkst"
+            },
+            "LabelZEINR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "zeinr"
+            }
+        },
+        {
+            "LabelBISMT": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "bismt"
+            },
+            "LabelFERTH": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ferth"
+            },
+            "LabelFromLocation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pick From Location:"
+            },
+            "LabelFromLocationNum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "A01-01-01"
+            },
+            "LabelGEWEI": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "gewei"
+            },
+            "LabelKg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total Kg:"
+            },
+            "LabelKgNum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.000"
+            },
+            "LabelLGNUM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "lgnum"
+            },
+            "LabelMAKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "maktx"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "matnr"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "meins"
+            },
+            "LabelNLPLA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "nltyp"
+            },
+            "LabelNLTYP": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "nltyp"
+            },
+            "LabelRightArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ">"
+            },
+            "LabelTO": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ticket:"
+            },
+            "LabelTONum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789012"
+            },
+            "LabelTOPos": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "LabelVLENR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "vlenr"
+            },
+            "LabelVLTYP": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "vltyp"
+            },
+            "LabelVSOLA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "vsola"
+            },
+            "LabelWRKST": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "wrkst"
+            },
+            "LabelZEINR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "zeinr"
+            }
+        },
+        {
+            "LabelBISMT": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "bismt"
+            },
+            "LabelFERTH": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ferth"
+            },
+            "LabelFromLocation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pick From Location:"
+            },
+            "LabelFromLocationNum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "A01-01-01"
+            },
+            "LabelGEWEI": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "gewei"
+            },
+            "LabelKg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total Kg:"
+            },
+            "LabelKgNum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.000"
+            },
+            "LabelLGNUM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "lgnum"
+            },
+            "LabelMAKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "maktx"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "matnr"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "meins"
+            },
+            "LabelNLPLA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "nltyp"
+            },
+            "LabelNLTYP": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "nltyp"
+            },
+            "LabelRightArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ">"
+            },
+            "LabelTO": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ticket:"
+            },
+            "LabelTONum": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789012"
+            },
+            "LabelTOPos": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "LabelVLENR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "vlenr"
+            },
+            "LabelVLTYP": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "vltyp"
+            },
+            "LabelVSOLA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "vsola"
+            },
+            "LabelWRKST": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "wrkst"
+            },
+            "LabelZEINR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "zeinr"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentCaseList",
+    "ide_onRowClick": "AS_Segment_dc59a764e7e84158ad787e6c2026692e",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d84a6e50bade47e4a73989d2cb877d67",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexScrollContainerBody",
+    "pf": "frmPickCaseList",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "hc5ffdac40874c0ea4439f03840bb57f",
+    "rowcounter": 2,
+    "rowfocusskin": "s0fbc057e35a4200858cb94cfbc0c38d",
+    "rowskin": "s32e9d8fe79a41479f957663e5bc9245",
+    "rowtemplate": "FlexTOList",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s9f2bc00060c4bbf9cf0ed1cd50477ef",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "00a88f00",
+    "separatorrequired": true,
+    "separatorthickness": 2,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexTOList": "FlexTOList",
+        "FlexTOListDet": "FlexTOListDet",
+        "FlexTOListHidden": "FlexTOListHidden",
+        "LabelBISMT": "LabelBISMT",
+        "LabelFERTH": "LabelFERTH",
+        "LabelFromLocation": "LabelFromLocation",
+        "LabelFromLocationNum": "LabelFromLocationNum",
+        "LabelGEWEI": "LabelGEWEI",
+        "LabelKg": "LabelKg",
+        "LabelKgNum": "LabelKgNum",
+        "LabelLGNUM": "LabelLGNUM",
+        "LabelMAKTX": "LabelMAKTX",
+        "LabelMATNR": "LabelMATNR",
+        "LabelMEINS": "LabelMEINS",
+        "LabelNLPLA": "LabelNLPLA",
+        "LabelNLTYP": "LabelNLTYP",
+        "LabelRightArrow": "LabelRightArrow",
+        "LabelTO": "LabelTO",
+        "LabelTONum": "LabelTONum",
+        "LabelTOPos": "LabelTOPos",
+        "LabelVLENR": "LabelVLENR",
+        "LabelVLTYP": "LabelVLTYP",
+        "LabelVSOLA": "LabelVSOLA",
+        "LabelWRKST": "LabelWRKST",
+        "LabelZEINR": "LabelZEINR"
+    },
+    "zindex": 1
+}
