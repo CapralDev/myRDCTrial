@@ -1,0 +1,32 @@
+{
+    "AS_Button_e0b6d607d4d845359914d572dcc1298e": {
+        "id": "AS_Button_e0b6d607d4d845359914d572dcc1298e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuMain",
+            "type": "forms",
+            "platform": "",
+            "KUID": "da976575439d47b28d3f7f3f0e725888"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__eb1ef43ba7444445960df201cabdd5df",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_ERROR",
+            "alertTitle": "Function Under Development",
+            "alertIcon": "clear_input_icon.png",
+            "alertMessage": "Menu option is unavailable",
+            "messageType": "constant",
+            "parentId": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Segment_f6b1b070e2a54c61a1514555b68edaa9": {
+        "id": "AS_Segment_f6b1b070e2a54c61a1514555b68edaa9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "KUID": "aac4fdd99736425fb60604fe4c859d77",
+            "name": "frmMoveLooseSelect",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d1a3ecf6baa746beba35c2d7f2a5e970",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onRowClick();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

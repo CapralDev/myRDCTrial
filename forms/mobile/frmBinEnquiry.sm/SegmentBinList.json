@@ -1,0 +1,276 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "ImageBitmap": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "none.png"
+            },
+            "LabelArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ">"
+            },
+            "LabelCase": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case:"
+            },
+            "LabelColour": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "LabelGESME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "LabelLENUM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789012345"
+            },
+            "LabelMAKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345678"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material:"
+            },
+            "LabelQtyAvail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available:"
+            },
+            "LabelQtyStock": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty in Stock:"
+            },
+            "LabelVERME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "Labelindex": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "idx"
+            }
+        },
+        {
+            "ImageBitmap": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "none.png"
+            },
+            "LabelArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ">"
+            },
+            "LabelCase": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case:"
+            },
+            "LabelColour": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "LabelGESME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "LabelLENUM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789012345"
+            },
+            "LabelMAKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345678"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material:"
+            },
+            "LabelQtyAvail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available:"
+            },
+            "LabelQtyStock": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty in Stock:"
+            },
+            "LabelVERME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "Labelindex": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "idx"
+            }
+        },
+        {
+            "ImageBitmap": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "none.png"
+            },
+            "LabelArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ">"
+            },
+            "LabelCase": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case:"
+            },
+            "LabelColour": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "LabelGESME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "LabelLENUM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789012345"
+            },
+            "LabelMAKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345678"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material:"
+            },
+            "LabelQtyAvail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available:"
+            },
+            "LabelQtyStock": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty in Stock:"
+            },
+            "LabelVERME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "Labelindex": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "idx"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentBinList",
+    "ide_onRowClick": "AS_Segment_af65feaeb6244926a425ba1b313f3dc7",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ibb7443dd45a4c9a956c5e92d0585930",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexScrollContainerBody",
+    "pf": "frmBinEnquiry",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ab9f6eeb8031483189ee3829b517e4b0",
+    "rowcounter": 2,
+    "rowfocusskin": "s0fbc057e35a4200858cb94cfbc0c38d",
+    "rowskin": "s32e9d8fe79a41479f957663e5bc9245",
+    "rowtemplate": "FlexSegEnqBinCase",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s9f2bc00060c4bbf9cf0ed1cd50477ef",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexDrawing": "FlexDrawing",
+        "FlexSegEnqBinCase": "FlexSegEnqBinCase",
+        "ImageBitmap": "ImageBitmap",
+        "LabelArrow": "LabelArrow",
+        "LabelCase": "LabelCase",
+        "LabelColour": "LabelColour",
+        "LabelGESME": "LabelGESME",
+        "LabelLENUM": "LabelLENUM",
+        "LabelMAKTX": "LabelMAKTX",
+        "LabelMATNR": "LabelMATNR",
+        "LabelMaterial": "LabelMaterial",
+        "LabelQtyAvail": "LabelQtyAvail",
+        "LabelQtyStock": "LabelQtyStock",
+        "LabelVERME": "LabelVERME",
+        "Labelindex": "Labelindex"
+    },
+    "zindex": 1
+}

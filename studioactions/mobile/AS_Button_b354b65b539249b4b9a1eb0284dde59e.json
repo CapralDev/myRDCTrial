@@ -1,0 +1,22 @@
+{
+    "AS_Button_b354b65b539249b4b9a1eb0284dde59e": {
+        "id": "AS_Button_b354b65b539249b4b9a1eb0284dde59e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuEnquiry",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h012d0dbe590493cbf95273fc1ea5338"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "EXIT_APP_ide_onClick_f2b2e9c1047b4f49a15e811c3541e729",
+            "type": "EXIT_APP",
+            "callbackType": null
+        }]
+    }
+}

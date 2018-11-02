@@ -1,0 +1,26 @@
+{
+    "AS_TextField_e151c54cce344de69595798bff378eea": {
+        "id": "AS_TextField_e151c54cce344de69595798bff378eea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmPutAframeInit",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f0bcb7dd72d948acbbe4370387aed83c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDone_dd46423c4776433c9cde09051b54c00d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onDone();",
+            "callbackType": null
+        }]
+    }
+}

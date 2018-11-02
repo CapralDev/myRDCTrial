@@ -1,0 +1,16 @@
+{
+    "AS_Button_d4be31db528c46629cf1e30d7c1210af": {
+        "id": "AS_Button_d4be31db528c46629cf1e30d7c1210af",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "EXIT_APP_ide_onClick_e5f217e1442d4de28e0f00da826afdee",
+            "type": "EXIT_APP",
+            "callbackType": null
+        }]
+    }
+}

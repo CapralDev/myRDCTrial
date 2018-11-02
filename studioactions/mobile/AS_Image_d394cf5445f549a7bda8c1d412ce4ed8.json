@@ -1,0 +1,35 @@
+{
+    "AS_Image_d394cf5445f549a7bda8c1d412ce4ed8": {
+        "id": "AS_Image_d394cf5445f549a7bda8c1d412ce4ed8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPutAframe",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jd67b70d85d6469a8b0066c2dd8c8f19"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onTouchStart_f4fbe9a1a7874e3596fcd3d81aa9576b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMenuMain",
+            "formKUID": "da976575439d47b28d3f7f3f0e725888",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

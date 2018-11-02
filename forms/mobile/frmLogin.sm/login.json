@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s36abfe1ccf343e2afb383711ed2648d",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "facebookLogin": false,
+        "forgotPasswordText": "                                                      ",
+        "ide_loginSuccessEvent": "AS_UWI_a45946bd8ee5498d883ce31e77458bac",
+        "linkedinLogin": false,
+        "logoScaleMode": 1,
+        "logoSource": "capralalum_logo_tag_black_8cm.png",
+        "office365Login": false,
+        "passwordMinimumChar": 5,
+        "passwordPlaceholder": "Password",
+        "providerName": "SAPCOD01",
+        "remembermeProperty": false,
+        "sknbtnLogin": "s046b3eb40504d9f91570b58e422902d",
+        "socialBackground": "sc86b2c49636437ea250b88dd2d46c67",
+        "socialLoginVisible": false,
+        "submitButtonText": "Login",
+        "touchIDProperty": false,
+        "usernameMaxChar": 30,
+        "usernameMinimumChar": 5,
+        "usernamePlaceholder": "User ID",
+        "usernameValidationMsg": "Username Too Small"
+    },
+    "id": "login",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g512073763c947ecafb2b1e363e99be0",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "cd4834da3fd340b8a65f483ef9d593a7",
+    "wType": "UserWidgetInstance"
+}

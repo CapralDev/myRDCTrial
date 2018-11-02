@@ -1,0 +1,26 @@
+{
+    "AS_TextField_d9c2727591554405a35d3644d5b3b4e9": {
+        "id": "AS_TextField_d9c2727591554405a35d3644d5b3b4e9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmStockEnquiry",
+            "type": "forms",
+            "platform": null,
+            "KUID": "da7d54959bfe4a73a80d9934d75acd3f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDone_fad93c41e3804cd68266733ee0d3eb43",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onDoneCase();",
+            "callbackType": null
+        }]
+    }
+}

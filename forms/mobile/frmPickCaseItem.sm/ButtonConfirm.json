@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf84980c9f2c4bd6970d88aa399c01b0",
+    "_text_": "Confirm",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sf48651d2298480d84375eda338492a3",
+    "id": "ButtonConfirm",
+    "ide_onClick": "AS_Button_ffda89b94759409fbac5e4c133bacb2c",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d556677dd61a488b9a96cd0b7b706eb2",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "SquaredButton",
+    "pf": "frmPickCaseItem",
+    "wType": "Button",
+    "zindex": 1
+}

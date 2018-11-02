@@ -1,0 +1,25 @@
+{
+    "AS_TextField_a464699e002f407da25f7855767bfae3": {
+        "id": "AS_TextField_a464699e002f407da25f7855767bfae3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "type": "userwidgets",
+            "KUID": "uf338773fa22443dac15facfdc0bf29b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d4ba0462fc85420bade9f7cb7f32484a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onDoneCredentials(this.view.lblPassword);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

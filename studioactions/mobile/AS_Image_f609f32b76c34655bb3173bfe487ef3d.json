@@ -1,0 +1,35 @@
+{
+    "AS_Image_f609f32b76c34655bb3173bfe487ef3d": {
+        "id": "AS_Image_f609f32b76c34655bb3173bfe487ef3d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPutAframe",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jd67b70d85d6469a8b0066c2dd8c8f19"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___a850f60e02a6424f850e158ccc61a278",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmScrapRsn",
+            "formKUID": "ie090ee3968f45b69f3d66b9097b6a5d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

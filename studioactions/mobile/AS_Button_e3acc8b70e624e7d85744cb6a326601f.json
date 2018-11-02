@@ -1,0 +1,29 @@
+{
+    "AS_Button_e3acc8b70e624e7d85744cb6a326601f": {
+        "id": "AS_Button_e3acc8b70e624e7d85744cb6a326601f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuMain",
+            "type": "forms",
+            "platform": "",
+            "KUID": "da976575439d47b28d3f7f3f0e725888"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___gd83498397e04bb1b5b083c399f98519",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmReprintLabelInit",
+            "formKUID": "h72c9a99915144209351770f3b8b9833",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

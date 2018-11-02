@@ -1,0 +1,35 @@
+{
+    "AS_Image_eee19b1ca7ea4bddb4ebe115a2706a2e": {
+        "id": "AS_Image_eee19b1ca7ea4bddb4ebe115a2706a2e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmReprintLabel",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d5df419104ba4c5fbd22b9fe7c29008a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onTouchStart_bd810e381a184aa8bf57669faad838b3",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMenuMain",
+            "formKUID": "da976575439d47b28d3f7f3f0e725888",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_d3d8a180e67b4716bada6a578a955cfe": {
+        "id": "AS_Button_d3d8a180e67b4716bada6a578a955cfe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuBtoB",
+            "type": "forms",
+            "platform": null,
+            "KUID": "af98819b08264bdebb207b2ba15bdb51"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "EXIT_APP__c776d36b92dc4c4b9ae0fda39a516f30",
+            "type": "EXIT_APP",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

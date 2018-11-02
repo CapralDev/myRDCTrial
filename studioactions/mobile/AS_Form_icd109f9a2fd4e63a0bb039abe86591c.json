@@ -1,0 +1,23 @@
+{
+    "AS_Form_icd109f9a2fd4e63a0bb039abe86591c": {
+        "id": "AS_Form_icd109f9a2fd4e63a0bb039abe86591c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScrapRsn",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ie090ee3968f45b69f3d66b9097b6a5d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_e0fb9f7ca8064b27abf150c95d7b78cc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelUname.text = glbSAPLONGNAME;\nthis.view.LabelLgnum.text = glbSAPLGNUM.toString();\nthis.preShow();",
+            "callbackType": null
+        }]
+    }
+}

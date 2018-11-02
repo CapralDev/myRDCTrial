@@ -1,0 +1,23 @@
+{
+    "AS_Button_b86655466fc443fe909707e7d09e7f3f": {
+        "id": "AS_Button_b86655466fc443fe909707e7d09e7f3f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPutAframe",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jd67b70d85d6469a8b0066c2dd8c8f19"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_a960f855a6374e0e996e1bfa6ce49be8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickComplete();",
+            "callbackType": null
+        }]
+    }
+}

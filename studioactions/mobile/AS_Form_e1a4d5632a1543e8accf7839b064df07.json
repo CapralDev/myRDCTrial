@@ -1,0 +1,23 @@
+{
+    "AS_Form_e1a4d5632a1543e8accf7839b064df07": {
+        "id": "AS_Form_e1a4d5632a1543e8accf7839b064df07",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuEnquiry",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h012d0dbe590493cbf95273fc1ea5338"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_cf22ae8ba35248209bdd3e9cdf5df4a2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelUname.text = glbSAPLONGNAME;\nthis.view.LabelLgnum.text = glbSAPLGNUM.toString();\nthis.preShow();",
+            "callbackType": null
+        }]
+    }
+}

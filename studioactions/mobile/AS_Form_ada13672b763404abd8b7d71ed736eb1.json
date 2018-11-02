@@ -1,0 +1,23 @@
+{
+    "AS_Form_ada13672b763404abd8b7d71ed736eb1": {
+        "id": "AS_Form_ada13672b763404abd8b7d71ed736eb1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPutAframe",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jd67b70d85d6469a8b0066c2dd8c8f19"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_ebc2fbf318164a92955d23e709610cf1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelUname.text = glbSAPLONGNAME;\nthis.view.LabelLgnum.text = glbSAPLGNUM.toString();\nthis.preShow(glb_WM_BTB_SCAN, glb_WM_BTB_DIFF);",
+            "callbackType": null
+        }]
+    }
+}

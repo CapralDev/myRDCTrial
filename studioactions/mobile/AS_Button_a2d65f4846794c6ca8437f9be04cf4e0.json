@@ -1,0 +1,24 @@
+{
+    "AS_Button_a2d65f4846794c6ca8437f9be04cf4e0": {
+        "id": "AS_Button_a2d65f4846794c6ca8437f9be04cf4e0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMoveCase",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c345bcc1491547a6adfeca4fe2fd93e0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c56b0cb36d924c4796c61d89b76bd761",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickConfirm(this.view.LabelCaseNumber.text, this.view.TextNewLocation.text);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

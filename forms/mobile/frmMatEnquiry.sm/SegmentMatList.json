@@ -1,0 +1,249 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "LabelArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ">"
+            },
+            "LabelCase": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case:"
+            },
+            "LabelColour": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "LabelGESME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "LabelLENUM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345678901234567890"
+            },
+            "LabelLGPLA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "A01-01-01"
+            },
+            "LabelLocation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Location:"
+            },
+            "LabelQtyAvail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available:"
+            },
+            "LabelQtyStock": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty in Stock:"
+            },
+            "LabelVERME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "Labelindex": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "idx"
+            }
+        },
+        {
+            "LabelArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ">"
+            },
+            "LabelCase": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case:"
+            },
+            "LabelColour": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "LabelGESME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "LabelLENUM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345678901234567890"
+            },
+            "LabelLGPLA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "A01-01-01"
+            },
+            "LabelLocation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Location:"
+            },
+            "LabelQtyAvail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available:"
+            },
+            "LabelQtyStock": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty in Stock:"
+            },
+            "LabelVERME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "Labelindex": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "idx"
+            }
+        },
+        {
+            "LabelArrow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ">"
+            },
+            "LabelCase": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case:"
+            },
+            "LabelColour": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "LabelGESME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "LabelLENUM": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345678901234567890"
+            },
+            "LabelLGPLA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "A01-01-01"
+            },
+            "LabelLocation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Location:"
+            },
+            "LabelQtyAvail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available:"
+            },
+            "LabelQtyStock": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty in Stock:"
+            },
+            "LabelVERME": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "Labelindex": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "idx"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentMatList",
+    "ide_onRowClick": "AS_Segment_eb267637c55e43eeb0d3f2ffb97e2ed6",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jcbf3c588ba64882b5fa1f2391ad261d",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexScrollContainerBody",
+    "pf": "frmMatEnquiry",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "a6f0c72248d3450b967bb8acbb41f678",
+    "rowcounter": 2,
+    "rowfocusskin": "s0fbc057e35a4200858cb94cfbc0c38d",
+    "rowskin": "s32e9d8fe79a41479f957663e5bc9245",
+    "rowtemplate": "FlexSegEnqMat",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s9f2bc00060c4bbf9cf0ed1cd50477ef",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexSegEnqMat": "FlexSegEnqMat",
+        "LabelArrow": "LabelArrow",
+        "LabelCase": "LabelCase",
+        "LabelColour": "LabelColour",
+        "LabelGESME": "LabelGESME",
+        "LabelLENUM": "LabelLENUM",
+        "LabelLGPLA": "LabelLGPLA",
+        "LabelLocation": "LabelLocation",
+        "LabelQtyAvail": "LabelQtyAvail",
+        "LabelQtyStock": "LabelQtyStock",
+        "LabelVERME": "LabelVERME",
+        "Labelindex": "Labelindex"
+    },
+    "zindex": 1
+}

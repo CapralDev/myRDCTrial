@@ -1,0 +1,29 @@
+{
+    "AS_Button_f7218aca9ca241f2bbaf908089df8617": {
+        "id": "AS_Button_f7218aca9ca241f2bbaf908089df8617",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMenuEnquiry",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h012d0dbe590493cbf95273fc1ea5338"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_d5d644092c9048bf8c63c178961573d3",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPickCaseList",
+            "formKUID": "ecff5ea029ec47b4a3bf84e201d01666",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

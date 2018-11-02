@@ -1,0 +1,23 @@
+{
+    "AS_Form_ib1063db6d0c486dbf3ae0cdd6814f04": {
+        "id": "AS_Form_ib1063db6d0c486dbf3ae0cdd6814f04",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReprintLabel",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d5df419104ba4c5fbd22b9fe7c29008a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_e35dc90cdbe1444c9eefa755def38c1b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelUname.text = glbSAPLONGNAME;\nthis.view.LabelLgnum.text = glbSAPLGNUM.toString();\nthis.preShow(glb_WM_REPLAB_CASE);",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Form_f1845636b1614b0f80f69f31eed9d604": {
+        "id": "AS_Form_f1845636b1614b0f80f69f31eed9d604",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStockEnquiry",
+            "type": "forms",
+            "platform": null,
+            "KUID": "da7d54959bfe4a73a80d9934d75acd3f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_ac7c7ea4f5bd4d5a943bebf7174c9aba",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelUname.text = glbSAPLONGNAME;\nthis.view.LabelLgnum.text = glbSAPLGNUM.toString();\nthis.preShow();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Image_ba5a990802a8443d958e8f4bfcfba2d5": {
+        "id": "AS_Image_ba5a990802a8443d958e8f4bfcfba2d5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmMoveCase",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c345bcc1491547a6adfeca4fe2fd93e0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i4323f23db14469cbcc66a622fb1ad5c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.caseLaunchBarcode();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

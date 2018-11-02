@@ -1,0 +1,29 @@
+{
+    "AS_Image_ic9d281025c74b4faffd95856f004f3c": {
+        "id": "AS_Image_ic9d281025c74b4faffd95856f004f3c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmStockEnquiry",
+            "type": "forms",
+            "platform": null,
+            "KUID": "da7d54959bfe4a73a80d9934d75acd3f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchStart_eb5d78d8962842ac82bbdeb6a43639fa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.launchBarcodeCase();\n",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Image_iacb63d103dd41339f24cda815951e4d": {
+        "id": "AS_Image_iacb63d103dd41339f24cda815951e4d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmReprintLabel",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d5df419104ba4c5fbd22b9fe7c29008a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchStart_b47bb8c418ca446d973e26c2892b4bec",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.launchBarcode();",
+            "callbackType": null
+        }]
+    }
+}

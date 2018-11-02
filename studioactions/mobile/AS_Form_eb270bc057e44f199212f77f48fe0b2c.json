@@ -1,0 +1,24 @@
+{
+    "AS_Form_eb270bc057e44f199212f77f48fe0b2c": {
+        "id": "AS_Form_eb270bc057e44f199212f77f48fe0b2c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBinEnquiry",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ja68b7c5d7364198bfbc405ada8ac814"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e1faf5d80e674b838a0d5175758ebe9d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelUname.text = glbSAPLONGNAME;\nthis.view.LabelLgnum.text = glbSAPLGNUM.toString();\nthis.view.LabelmyRDC.text = glbbuildname;\nthis.preShow(glb_WM_ENQ_STOCK);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
