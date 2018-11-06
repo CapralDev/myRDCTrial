@@ -1,4 +1,4 @@
-//Type your code here
+//Type your code here - GIT Integration testing
    var controllerScope = null;
 //*********************** Start of Code for Georg **********************
    function WMGetCase(data, successCallback, errorCallback)
